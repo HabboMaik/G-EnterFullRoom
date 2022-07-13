@@ -1,0 +1,15 @@
+C:\Users\Maik\Desktop\EnterFullRoom\bin\Debug\GeodeExampleCSharp.exe.config
+C:\Users\Maik\Desktop\EnterFullRoom\bin\Debug\GeodeExampleCSharp.exe
+C:\Users\Maik\Desktop\EnterFullRoom\bin\Debug\GeodeExampleCSharp.pdb
+C:\Users\Maik\Desktop\EnterFullRoom\bin\Debug\Geode.dll
+C:\Users\Maik\Desktop\EnterFullRoom\obj\Debug\G-EnterFullRoom.csproj.AssemblyReference.cache
+C:\Users\Maik\Desktop\EnterFullRoom\obj\Debug\G-EnterFullRoom.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maik\Desktop\EnterFullRoom\obj\Debug\GeodeExampleCSharp.Form2.resources
+C:\Users\Maik\Desktop\EnterFullRoom\obj\Debug\GeodeExampleCSharp.Form1.resources
+C:\Users\Maik\Desktop\EnterFullRoom\obj\Debug\GeodeExampleCSharp.MainWindow.resources
+C:\Users\Maik\Desktop\EnterFullRoom\obj\Debug\GeodeExampleCSharp.Properties.Resources.resources
+C:\Users\Maik\Desktop\EnterFullRoom\obj\Debug\G-EnterFullRoom.csproj.GenerateResource.cache
+C:\Users\Maik\Desktop\EnterFullRoom\obj\Debug\G-EnterFullRoom.csproj.CoreCompileInputs.cache
+C:\Users\Maik\Desktop\EnterFullRoom\obj\Debug\G-EnterFullRoom.csproj.CopyComplete
+C:\Users\Maik\Desktop\EnterFullRoom\obj\Debug\GeodeExampleCSharp.exe
+C:\Users\Maik\Desktop\EnterFullRoom\obj\Debug\GeodeExampleCSharp.pdb
